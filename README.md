@@ -1,4 +1,4 @@
-Forked as part of the DevOps learning trajectory (module about pipelines [https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/4-plan-build-tasks])
+Forked as part of the DevOps learning trajectory - module [pipelines] (https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/4-plan-build-tasks)
 
 # Contributing
 
