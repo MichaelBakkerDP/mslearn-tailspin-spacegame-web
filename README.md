@@ -1,4 +1,4 @@
-Forked as part of the DevOps learning trajectory - module [Create a build pipeline with Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/4-plan-build-tasks).
+Forked as part of the DevOps learning trajectory - module [Create a build pipeline with Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/create-a-build-pipeline/).
 
 # Contributing
 
